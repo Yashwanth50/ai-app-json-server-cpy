@@ -31,45 +31,6 @@
       "id": "9957"
     }
   ],
-  "chats": [
-    {
-      "prompts": [
-        {
-          "id": "9bcac248-95e7-435b-970f-ba75000c1771",
-          "prompt": "hi",
-          "context": "context",
-          "timestamp": "2024-02-22T12:27:22.824Z",
-          "template": "summarize and give the key points"
-        }
-      ],
-      "messages": [
-        {
-          "id": "9bcac248-95e7-435b-970f-ba75000c1771",
-          "generatedText": " Hello! How can I assist you today?"
-        }
-      ],
-      "timestamp": "2024-02-22T12:27:22.824Z",
-      "id": 1
-    },
-    {
-      "prompts": [
-        {
-          "id": "0dd16bdd-ef61-428d-ac28-ec825b792a11",
-          "prompt": "hi",
-          "context": "context",
-          "timestamp": "2024-02-22T12:28:55.577Z",
-          "template": "summarize and give the key points"
-        }
-      ],
-      "messages": [
-        {
-          "id": "0dd16bdd-ef61-428d-ac28-ec825b792a11",
-          "generatedText": " Hello! How can I help you today?"
-        }
-      ],
-      "timestamp": "2024-02-22T12:28:55.577Z",
-      "id": 2
-    }
-  ],
+  "chats": [],
   "boards": []
 }
