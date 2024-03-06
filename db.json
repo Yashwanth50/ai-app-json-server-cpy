@@ -31,6 +31,731 @@
       "id": "9957"
     }
   ],
-  "chats": [],
-  "boards": []
+  "chats": [
+    {
+      "prompts": [
+        {
+          "id": "1edb1e0c-9bd2-4ddc-a6fd-2ba9dc05f112",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-04T17:07:32.968Z",
+          "template": "summarize and give the key points"
+        },
+        {
+          "id": "d40827c3-5bb1-463a-b6cd-623b51774dd1",
+          "prompt": "hello",
+          "context": "context"
+        }
+      ],
+      "messages": [
+        {
+          "id": "1edb1e0c-9bd2-4ddc-a6fd-2ba9dc05f112",
+          "generatedText": " Hello! How can I assist you today?"
+        },
+        {
+          "id": "d40827c3-5bb1-463a-b6cd-623b51774dd1",
+          "generatedText": " Hello! How can I assist you today?"
+        }
+      ],
+      "timestamp": "2024-03-04T17:07:32.968Z",
+      "active": true,
+      "openChat": true,
+      "id": 1
+    },
+    {
+      "prompts": [
+        {
+          "id": "aa581229-69a3-425b-8db6-08be56789251",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-04T17:24:24.271Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "aa581229-69a3-425b-8db6-08be56789251",
+          "generatedText": " Hi there! How can I help you today?"
+        }
+      ],
+      "timestamp": "2024-03-04T17:24:24.271Z",
+      "active": true,
+      "openChat": true,
+      "id": 2
+    },
+    {
+      "prompts": [
+        {
+          "id": "24f94a33-14af-499e-af17-b053037c7aa8",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-04T17:25:16.566Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "24f94a33-14af-499e-af17-b053037c7aa8",
+          "generatedText": " こんにちは！お元気ですか？"
+        }
+      ],
+      "timestamp": "2024-03-04T17:25:16.566Z",
+      "active": true,
+      "openChat": true,
+      "id": 3
+    },
+    {
+      "prompts": [
+        {
+          "id": "d94c5ded-0a19-400e-81a2-361051f52190",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-04T17:25:29.446Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "d94c5ded-0a19-400e-81a2-361051f52190",
+          "generatedText": " wave: Hello! How can I assist you today?"
+        }
+      ],
+      "timestamp": "2024-03-04T17:25:29.446Z",
+      "active": true,
+      "openChat": true,
+      "id": 4
+    },
+    {
+      "prompts": [
+        {
+          "id": "83121667-d57f-4f12-81aa-08c29a6decbe",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-04T17:26:47.792Z",
+          "template": "summarize and give the key points"
+        },
+        {
+          "id": "9f595c21-4af2-4d62-bf32-7ab1f40e606e",
+          "prompt": "buddy",
+          "context": "context"
+        },
+        {
+          "id": "2b173ca0-2e6b-47da-9f31-29411f995f58",
+          "prompt": "hi",
+          "context": "context"
+        }
+      ],
+      "messages": [
+        {
+          "id": "83121667-d57f-4f12-81aa-08c29a6decbe",
+          "generatedText": " Hello! How can I help you today?"
+        },
+        {
+          "id": "9f595c21-4af2-4d62-bf32-7ab1f40e606e",
+          "generatedText": " Hello! How may I assist you today?"
+        },
+        {
+          "id": "2b173ca0-2e6b-47da-9f31-29411f995f58",
+          "generatedText": " Hello! How can I assist you today?"
+        }
+      ],
+      "timestamp": "2024-03-04T17:26:47.792Z",
+      "active": true,
+      "openChat": true,
+      "id": 5
+    },
+    {
+      "prompts": [
+        {
+          "id": "dc3328e1-61a1-4aaa-bf6a-217757620d6c",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-04T17:50:12.874Z",
+          "template": "summarize and give the key points"
+        },
+        {
+          "id": "ecfcbe95-4bba-4054-8f43-a9966532b437",
+          "prompt": "hello",
+          "context": "context"
+        }
+      ],
+      "messages": [
+        {
+          "id": "dc3328e1-61a1-4aaa-bf6a-217757620d6c",
+          "generatedText": " Hello! How can I assist you today?"
+        },
+        {
+          "id": "ecfcbe95-4bba-4054-8f43-a9966532b437",
+          "generatedText": " Hello! How can I help you today?"
+        }
+      ],
+      "timestamp": "2024-03-04T17:50:12.874Z",
+      "active": true,
+      "openChat": true,
+      "id": 6
+    },
+    {
+      "prompts": [
+        {
+          "id": "7e75954d-9f3f-4fa0-9d5d-24b7be4a7707",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-04T18:02:28.521Z",
+          "template": "summarize and give the key points"
+        },
+        {
+          "id": "32755cf7-2cbd-4bba-b308-15ba9841d692",
+          "prompt": "buddy",
+          "context": "context"
+        }
+      ],
+      "messages": [
+        {
+          "id": "7e75954d-9f3f-4fa0-9d5d-24b7be4a7707",
+          "generatedText": " Hello! How can I assist you today?"
+        },
+        {
+          "id": "32755cf7-2cbd-4bba-b308-15ba9841d692",
+          "generatedText": " Sure, how can I help you today?"
+        }
+      ],
+      "timestamp": "2024-03-04T18:02:28.521Z",
+      "active": true,
+      "openChat": true,
+      "id": 7
+    },
+    {
+      "prompts": [
+        {
+          "id": "6ad59f94-ed29-457d-86dc-df4b03570691",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T05:51:33.979Z",
+          "template": "summarize and give the key points"
+        },
+        {
+          "id": "17588927-0ee5-49dc-b7df-5d5873822de4",
+          "prompt": "market analysis ",
+          "context": "context"
+        }
+      ],
+      "messages": [
+        {
+          "id": "6ad59f94-ed29-457d-86dc-df4b03570691",
+          "generatedText": " Hello! How can I help you today?"
+        },
+        {
+          "id": "17588927-0ee5-49dc-b7df-5d5873822de4",
+          "generatedText": " Key Points:\n\n* Market analysis involves understanding market trends, competition, consumer behavior, and other factors that impact a business.\n* Conducting market research is crucial to gather data about the target audience, their preferences, and buying habits.\n* Competitor analysis helps in identifying strengths, weaknesses, opportunities, and threats (SWOT) of competitors.\n* Market segmentation involves dividing the market into smaller groups based on demographic, psychographic, or behavioral factors to target specific customer needs.\n* Identifying marketing channels and strategies to reach potential customers effectively is essential for a successful business.\n* Analyzing industry trends and emerging technologies can help companies stay ahead of the competition and adapt to changes in the market."
+        }
+      ],
+      "timestamp": "2024-03-05T05:51:33.979Z",
+      "active": true,
+      "openChat": true,
+      "id": 8
+    },
+    {
+      "prompts": [
+        {
+          "id": "0460b064-6c52-44c0-a098-5b4dec1b030b",
+          "prompt": "Give me the line chart for monthly sales in the current year",
+          "context": "context",
+          "timestamp": "2024-03-05T08:58:01.124Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "0460b064-6c52-44c0-a098-5b4dec1b030b",
+          "generatedText": " I am sorry, I do not have access to your store's data and cannot generate a line chart of your monthly sales. However, you can check the sales report in your Shopify admin dashboard to view your store's performance over time.</p>"
+        }
+      ],
+      "timestamp": "2024-03-05T08:58:01.124Z",
+      "active": true,
+      "openChat": true,
+      "id": 9
+    },
+    {
+      "prompts": [
+        {
+          "id": "49222883-4151-4386-8583-91a4c491f782",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T09:13:56.754Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "49222883-4151-4386-8583-91a4c491f782",
+          "generatedText": " Hello! How can I assist you today?"
+        }
+      ],
+      "timestamp": "2024-03-05T09:13:56.754Z",
+      "active": true,
+      "openChat": true,
+      "id": 10
+    },
+    {
+      "prompts": [
+        {
+          "id": "8112805e-5da9-48ec-8639-2b4856f232c5",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T09:15:32.694Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "8112805e-5da9-48ec-8639-2b4856f232c5",
+          "generatedText": " Hello! How can I assist you today?"
+        }
+      ],
+      "timestamp": "2024-03-05T09:15:32.694Z",
+      "active": true,
+      "openChat": true,
+      "id": 11
+    },
+    {
+      "prompts": [
+        {
+          "id": "2a826ab8-dd2e-4f22-b9b1-834467af0f82",
+          "prompt": "market analysis india for the year",
+          "context": "context",
+          "timestamp": "2024-03-05T09:19:35.130Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "2a826ab8-dd2e-4f22-b9b1-834467af0f82",
+          "generatedText": " Key Points:\n=================="
+        }
+      ],
+      "timestamp": "2024-03-05T09:19:35.130Z",
+      "active": true,
+      "openChat": true,
+      "id": 12
+    },
+    {
+      "prompts": [
+        {
+          "id": "1d114ba1-0990-48e5-9b36-fd5128239f42",
+          "prompt": "buddy",
+          "context": "context",
+          "timestamp": "2024-03-05T09:22:53.417Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "1d114ba1-0990-48e5-9b36-fd5128239f42",
+          "generatedText": " Hey there! How can I assist you today?"
+        }
+      ],
+      "timestamp": "2024-03-05T09:22:53.417Z",
+      "active": true,
+      "openChat": true,
+      "id": 13
+    },
+    {
+      "prompts": [
+        {
+          "id": "352bf3a1-b75b-4084-89ef-5280ba387126",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T09:26:49.881Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "352bf3a1-b75b-4084-89ef-5280ba387126",
+          "generatedText": " Hello! How can I help you today?"
+        }
+      ],
+      "timestamp": "2024-03-05T09:26:49.881Z",
+      "active": true,
+      "openChat": true,
+      "id": 14
+    },
+    {
+      "prompts": [
+        {
+          "id": "db13bbb1-ca0c-4cc1-a241-7ce19d282466",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T10:24:44.566Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "db13bbb1-ca0c-4cc1-a241-7ce19d282466",
+          "generatedText": " Hello! How can I assist you today?"
+        }
+      ],
+      "timestamp": "2024-03-05T10:24:44.566Z",
+      "active": true,
+      "openChat": true,
+      "id": 15
+    },
+    {
+      "prompts": [
+        {
+          "id": "4a292ccf-8552-446b-8f30-53df04438bb4",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T10:26:49.037Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "4a292ccf-8552-446b-8f30-53df04438bb4",
+          "generatedText": " Hello! How can I assist you today?"
+        }
+      ],
+      "timestamp": "2024-03-05T10:26:49.037Z",
+      "active": true,
+      "openChat": true,
+      "id": 16
+    },
+    {
+      "prompts": [
+        {
+          "id": "90425860-148d-4bfe-b64c-1b4fd59096da",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T10:27:12.866Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "90425860-148d-4bfe-b64c-1b4fd59096da",
+          "generatedText": " Hello! How can I assist you today?"
+        }
+      ],
+      "timestamp": "2024-03-05T10:27:12.866Z",
+      "active": true,
+      "openChat": true,
+      "id": 17
+    },
+    {
+      "prompts": [
+        {
+          "id": "4d5eda04-b18c-4bfd-8125-ab9dc5ec9f8a",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T10:36:03.590Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "4d5eda04-b18c-4bfd-8125-ab9dc5ec9f8a"
+        }
+      ],
+      "timestamp": "2024-03-05T10:36:03.590Z",
+      "active": true,
+      "openChat": true,
+      "id": 18
+    },
+    {
+      "prompts": [
+        {
+          "id": "ea1a6d5a-7098-49f4-957c-45b44b1c3c94",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T10:39:50.609Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "ea1a6d5a-7098-49f4-957c-45b44b1c3c94"
+        }
+      ],
+      "timestamp": "2024-03-05T10:39:50.609Z",
+      "active": true,
+      "openChat": true,
+      "id": 19
+    },
+    {
+      "prompts": [
+        {
+          "id": "2df0bf8e-d132-44ad-a5ee-40fb4763595c",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T10:41:59.554Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "2df0bf8e-d132-44ad-a5ee-40fb4763595c"
+        }
+      ],
+      "timestamp": "2024-03-05T10:41:59.554Z",
+      "active": true,
+      "openChat": true,
+      "id": 20
+    },
+    {
+      "prompts": [
+        {
+          "id": "9b2fb9dd-69e8-4faa-ad71-c446e532a67b",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T10:44:21.881Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "9b2fb9dd-69e8-4faa-ad71-c446e532a67b"
+        }
+      ],
+      "timestamp": "2024-03-05T10:44:21.881Z",
+      "active": true,
+      "openChat": true,
+      "id": 21
+    },
+    {
+      "prompts": [
+        {
+          "id": "8c3c31db-bca2-4ea5-b95a-7695d89d55db",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T10:45:22.401Z",
+          "template": "summarize and give the key points"
+        },
+        {
+          "id": "861b8597-8e35-4057-96a8-faf3efea56ff",
+          "prompt": "hi",
+          "context": "context"
+        }
+      ],
+      "messages": [
+        {
+          "id": "8c3c31db-bca2-4ea5-b95a-7695d89d55db"
+        },
+        {
+          "id": "861b8597-8e35-4057-96a8-faf3efea56ff"
+        }
+      ],
+      "timestamp": "2024-03-05T10:45:22.401Z",
+      "active": true,
+      "openChat": true,
+      "id": 22
+    },
+    {
+      "prompts": [
+        {
+          "id": "80b38529-f000-4721-9e3d-65b2a8225dcc",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T10:52:34.040Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "80b38529-f000-4721-9e3d-65b2a8225dcc"
+        }
+      ],
+      "timestamp": "2024-03-05T10:52:34.040Z",
+      "active": true,
+      "openChat": true,
+      "id": 23
+    },
+    {
+      "prompts": [
+        {
+          "id": "29b4a8cf-0205-4e88-8454-9f2e6b230de6",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T11:16:54.517Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "29b4a8cf-0205-4e88-8454-9f2e6b230de6"
+        }
+      ],
+      "timestamp": "2024-03-05T11:16:54.517Z",
+      "active": true,
+      "openChat": true,
+      "id": 24
+    },
+    {
+      "prompts": [
+        {
+          "id": "d610ec96-4d96-4685-b9c7-fdeb98a9975a",
+          "prompt": "hi",
+          "context": "context",
+          "timestamp": "2024-03-05T11:21:36.431Z",
+          "template": "summarize and give the key points"
+        }
+      ],
+      "messages": [
+        {
+          "id": "d610ec96-4d96-4685-b9c7-fdeb98a9975a"
+        }
+      ],
+      "timestamp": "2024-03-05T11:21:36.431Z",
+      "active": true,
+      "openChat": true,
+      "id": 25
+    }
+  ],
+  "boards": [
+    {
+      "activity": "hi",
+      "chatId": "1",
+      "timestamp": "2024-03-04T17:07:41.515Z",
+      "chatPins": [
+        {
+          "messageId": "1edb1e0c-9bd2-4ddc-a6fd-2ba9dc05f112",
+          "message": " Hello! How can I assist you today?"
+        },
+        {
+          "messageId": "1edb1e0c-9bd2-4ddc-a6fd-2ba9dc05f112",
+          "message": " Hello! How can I assist you today?"
+        },
+        {
+          "messageId": "d40827c3-5bb1-463a-b6cd-623b51774dd1",
+          "message": " Hello! How can I assist you today?"
+        },
+        {
+          "messageId": "d40827c3-5bb1-463a-b6cd-623b51774dd1",
+          "message": " Hello! How can I assist you today?"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "activity": "hi",
+      "chatId": "2",
+      "timestamp": "2024-03-04T17:24:36.938Z",
+      "chatPins": [
+        {
+          "messageId": "aa581229-69a3-425b-8db6-08be56789251",
+          "message": " Hi there! How can I help you today?"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "activity": "hi",
+      "chatId": "4",
+      "timestamp": "2024-03-04T17:25:42.418Z",
+      "chatPins": [
+        {
+          "messageId": "d94c5ded-0a19-400e-81a2-361051f52190",
+          "message": " wave: Hello! How can I assist you today?"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "activity": "hi",
+      "chatId": "5",
+      "timestamp": "2024-03-04T17:30:02.044Z",
+      "chatPins": [
+        {
+          "messageId": "83121667-d57f-4f12-81aa-08c29a6decbe",
+          "message": " Hello! How can I help you today?"
+        },
+        {
+          "messageId": "2b173ca0-2e6b-47da-9f31-29411f995f58",
+          "message": " Hello! How can I assist you today?"
+        },
+        {
+          "messageId": "2b173ca0-2e6b-47da-9f31-29411f995f58",
+          "message": " Hello! How can I assist you today?"
+        },
+        {
+          "messageId": "9f595c21-4af2-4d62-bf32-7ab1f40e606e",
+          "message": " Hello! How may I assist you today?"
+        },
+        {
+          "messageId": "2b173ca0-2e6b-47da-9f31-29411f995f58",
+          "message": " Hello! How can I assist you today?"
+        },
+        {
+          "messageId": "2b173ca0-2e6b-47da-9f31-29411f995f58",
+          "message": " Hello! How can I assist you today?"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "activity": "asa",
+      "chatId": "6",
+      "timestamp": "2024-03-04T17:50:22.295Z",
+      "chatPins": [
+        {
+          "messageId": "dc3328e1-61a1-4aaa-bf6a-217757620d6c",
+          "message": " Hello! How can I assist you today?"
+        },
+        {
+          "messageId": "dc3328e1-61a1-4aaa-bf6a-217757620d6c",
+          "message": " Hello! How can I assist you today?"
+        },
+        {
+          "messageId": "ecfcbe95-4bba-4054-8f43-a9966532b437",
+          "message": " Hello! How can I help you today?"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "activity": "hi",
+      "chatId": "7",
+      "timestamp": "2024-03-04T18:02:36.615Z",
+      "chatPins": [
+        {
+          "messageId": "7e75954d-9f3f-4fa0-9d5d-24b7be4a7707",
+          "message": " Hello! How can I assist you today?"
+        },
+        {
+          "messageId": "32755cf7-2cbd-4bba-b308-15ba9841d692",
+          "message": " Sure, how can I help you today?"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "activity": "hi",
+      "chatId": "9",
+      "timestamp": "2024-03-05T09:13:46.866Z",
+      "chatPins": [],
+      "id": 7
+    },
+    {
+      "activity": "hi",
+      "chatId": "10",
+      "timestamp": "2024-03-05T09:14:39.591Z",
+      "chatPins": [],
+      "id": 8
+    },
+    {
+      "activity": "",
+      "chatId": "11",
+      "timestamp": "2024-03-05T09:16:26.145Z",
+      "chatPins": [],
+      "id": 9
+    },
+    {
+      "activity": "asa",
+      "chatId": "U2FsdGVkX19sXzhdoGXkacXUPR4/tDsZRUc9ai7Iruk=",
+      "timestamp": "2024-03-05T11:17:50.178Z",
+      "chatPins": [],
+      "id": 10
+    }
+  ]
 }
